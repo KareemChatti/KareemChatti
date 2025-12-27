@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Abdelkarim chatti, a final-year IT student with a passion for web and mobile development. I have experience building full-stack web applications using Angular, Spring Boot, and the MERN stack, as well as creating mobile apps with Flutter and Kotlin.<br><br>In addition to my development skills, I have a strong interest in UX/UI design . I'm constantly exploring new projects and opportunities to improve my skills and take on new challenges.<br><br>🔧 Tech Stack: Angular, Spring Boot, MERN, Flutter, Kotlin, Adobe XD<br><br>🌱 Currently learning: Microservice, Flutter,..<br><br>💼 Open to new projects and collaboration!
+👋 Hi, I'm Abdelkarim chatti, a Graduate student with a passion for web  development and all about Data. I have experience building full-stack web applications using Angular, Spring Boot, and the MERN stack, as well as creating mobile apps with Flutter .<br><br>In addition to my development skills, I have a strong interest in Data Analysis . I'm constantly exploring new projects and opportunities to improve my skills and take on new challenges.<br><br>🔧 Tech Stack: Angular, Spring Boot, MERN, Flutter, Kotlin, Adobe XD<br><br>🌱 Currently learning: Microservice, Flutter,..<br><br>💼 Open to new projects and collaboration!
 
 
 
